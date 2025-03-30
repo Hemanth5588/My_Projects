@@ -1,0 +1,6 @@
+client_id = "2d0b62ee-9424-44a0-a83e-6bbc61b17084"
+tenant_id = "a03b12ac-d007-4715-9932-2fe2e42e0fe7"
+client_secret = "WSu8Q~T02FDSCkSxCTFFop87VE5bJqCBcq6s2caY"
+subscription_id = "223a72f7-6b5d-41d2-b140-ef5030bfb9d3"
+location = "East US"
+resource_group_name = "Infra-Project-11"
